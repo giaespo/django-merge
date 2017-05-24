@@ -1,0 +1,10 @@
+.remote {
+    background-color: lightgray;
+    border: 1px solid;
+    float: right;
+    overflow: auto;
+    text-align: center;
+}
+.newValue {
+    overflow: auto;
+}
